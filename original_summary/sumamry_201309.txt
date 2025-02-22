@@ -1,0 +1,10 @@
+SUMMARY
+At approximately 06001  on 17 September 2013, the 13.6m fishing vessel Sally Jane capsized suddenly while beam trawling in Christchurch Bay, England. The vessel’s skipper and mate abandoned the vessel and boarded a liferaft. They were rescued by a lifeboat approximately 2 hours later, during which time Sally Jane had sunk. Both men suffered from mild hypothermia.
+The MAIB investigation identified:
+Sally Jane capsized due to a loss of transverse stability, probably caused by a difference in the weight of the contents of its port and starboard trawl nets.
+The uneven loading was most likely due to the contents in the starboard side trawl net breaking free.
+The vessel’s heeling moment was exacerbated by the length and angle of the derricks.
+The vessel quickly flooded and sank because the hatches to the fish and engine rooms were not secured.
+The information in the stability particulars book had not been periodically verified through lightship checks and it was not used by the vessel’s skippers.
+The emergency position indicating radio beacon did not activate as it probably became trapped in the starboard trawl net when the vessel capsized, inverted and then sank.
+No recommendations have been issued as a consequence of this investigation.

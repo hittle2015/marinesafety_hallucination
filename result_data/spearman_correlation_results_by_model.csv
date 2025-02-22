@@ -1,0 +1,10 @@
+model,learning_model,spearman_correlation
+chatgpt,fewshot,-0.046900325465366474
+chatgpt,oneshot,-0.04259258432838356
+chatgpt,zeroshot,0.12894640209638455
+llama,fewshot,-0.37083960810776384
+llama,oneshot,-0.27861932642906834
+llama,zeroshot,-0.09375352664330462
+qwen,fewshot,-0.3220045963887374
+qwen,oneshot,-0.15286929428303775
+qwen,zeroshot,-0.2383074974253422

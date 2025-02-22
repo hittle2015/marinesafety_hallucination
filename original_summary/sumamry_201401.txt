@@ -1,0 +1,11 @@
+SUMMARY
+At 1637 UTC1  on 22 January 2014, the fishing vessels Sapphire Stone and Karen collided. At the time of the collision, Sapphire Stone was steering a north-westerly course towards Campbeltown to land its catch, while Karen was towing its nets on a west-north-westerly course.
+Karen was struck on its port quarter and was severely damaged. Its hull was opened to the sea, which caused the aft crew accommodation and main engine room to flood rapidly, resulting in the vessel foundering within 3 minutes of the collision. Sapphire Stone suffered minor damage to its stem post.
+Attempts by Karen’s skipper to send a DSC2  distress alert were unsuccessful due to the speed with which the vessel foundered. However, Karen’s crew were quickly rescued by the crew of Sapphire Stone, and the coastguard was alerted by Karen’s EPIRB3, which activated after the vessel sank.
+The MAIB investigation identified that neither skipper was keeping an effective visual lookout, and that radar contacts were not being systematically observed, or plotted, to ascertain whether a risk of collision existed. Additionally, Sapphire
+Stone’s skipper had become over-reliant on AIS4  information displayed on his chart plotter.
+MGN5s 313 (F) and 324 (M+F) issued by the Maritime and Coastguard Agency (MCA) explain the need for maintaining a proper lookout, and warn of the danger of over-reliance on chart plotters and AIS target information.
+Recommendations have been made to the skippers of both vessels to heed the contents of extant MCA guidance to the fishing industry.
+
+
+

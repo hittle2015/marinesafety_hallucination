@@ -1,0 +1,10 @@
+﻿model,UCE,OGE,UGE,MGE,NNE,DTE,mode
+chatgpt,0,2,18,38,0,12,zeroshot
+llama,1,0,23,89,10,16,zeroshot
+qwen,0,1,21,73,6,17,zeroshot
+chatgpt,0,6,7,51,1,9,oneshot
+llama,3,2,19,125,11,23,oneshot
+qwen,2,0,19,120,17,21,oneshot
+chatgpt,0,1,24,49,0,8,fewshot
+llama,0,0,16,103,9,9,fewshot
+qwen,0,1,17,86,6,13,fewshot

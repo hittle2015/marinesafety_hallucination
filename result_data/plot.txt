@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage[margin=1in]{geometry}  % 调整页边距，根据需要修改
+
+\begin{document}
+
+\begin{figure}[htbp]
+  \centering
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Hallucinations_zeroshot.pdf}  % 或 Hallucinations_zeroshot.png
+    \caption{Zero-shot 模式}
+    \label{fig:zeroshot}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Hallucinations_oneshot.pdf}  % 或 Hallucinations_oneshot.png
+    \caption{One-shot 模式}
+    \label{fig:oneshot}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Hallucinations_fewshot.pdf}  % 或 Hallucinations_fewshot.png
+    \caption{Few-shot 模式}
+    \label{fig:fewshot}
+  \end{subfigure}
+  \caption{不同模型在各个模式下的幻觉类型频率}
+  \label{fig:hallucinations}
+\end{figure}
+
+\end{document}

@@ -1,0 +1,4 @@
+"Comparison","P_Value","Interpretation"
+"chatgpt vs llama (所有学习模式)",0.000499750124937531,"极显著差异 (p < 0.001)"
+"chatgpt vs qwen (所有学习模式)",0.000499750124937531,"极显著差异 (p < 0.001)"
+"llama vs qwen (所有学习模式)",0.924037981009495,"无显著差异 (p >= 0.05)"

@@ -1,0 +1,8 @@
+SUMMARY
+On 7 September 2017, the 15.87m crew transfer vessel, Windcat 8, was on passage to Grimsby, UK, from the Lynn Wind Farm in the North Sea with two crew and eight windfarm technicians on board. Shortly after setting off, the vessel's port engine suffered catastrophic damage and caught fire. The passengers were quickly transferred on to Windcat 31 and the fire was contained within the port engine space and soon extinguished. Windcat 8's port engine was badly damaged and the vessel was towed to Grimsby by Windcat 30. There was no pollution and no injuries.
+The MAIB investigation identified that the catastrophic damage to Windcat 8's port main engine was caused by the failure of a piston connecting rod big end shell bearing, which resulted in the connecting rod assembly releasing and penetrating through the engine crankcase. The investigation also identified that:
+A high oil temperature alarm prior to the engine failure warranted a more cautious approach to the use of the engine until a deeper technical investigation could be conducted.
+The fire resulted from the ignition of oil vapour released from the damaged crankcase and did not spread beyond the port engine.
+The fixed fire extinguishing system was rendered ineffective because not all the port engine space vents were closed prior to its release.
+The safety of the passengers was given a high priority.
+A recommendation has been made to Windcat 8's owner, Windcat Workboats BV Ltd, which is aimed at improving its crews' reactions to engine alarms and engine space fires.
